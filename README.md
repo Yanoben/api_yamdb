@@ -1,4 +1,4 @@
-#API for Yamdb
+# API for Yamdb
 
 ### Как запустить проект:
 
